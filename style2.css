@@ -139,7 +139,7 @@ header {
 .hero {
 	position: relative;
 	height: 54vw;
-	background:url('농구.jpg')
+	background:url('농구.jpg') no-repeat
 }
 .hero-content {
 	font-family: 'acumin-pro-extra-condensed', sans-serif;
