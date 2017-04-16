@@ -140,6 +140,7 @@ header {
 	position: relative;
 	height: 54vw;
 	background:url('농구.jpg') no-repeat 0 0/401px 351px;
+	background-size:cover;
 }
 .hero-content {
 	font-family: 'acumin-pro-extra-condensed', sans-serif;
